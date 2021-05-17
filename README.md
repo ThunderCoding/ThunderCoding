@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Discord.js
 - 📫 How to reach me Email me: flowdesigns6@gmail.com
 - 🔨 Spiral OS Digital is my latest project
+- 🎶 Music Guy
+- 🤣 mEmEr
 
 <!---
 ThunderCoding/ThunderCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
